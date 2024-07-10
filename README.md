@@ -1,6 +1,7 @@
 # Hello, I'm suzukibelltree! 👋
 
-I'm a software developer passionate about open-source projects and web development.
+
+I am a student in the Department of Information Engineering and aspire to become a software engineer!
 
 ## Skills
 
