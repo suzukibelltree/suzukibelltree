@@ -11,3 +11,4 @@ I am a student in the Department of Information Engineering and aspire to become
 ## Connect with me
 
 - [Atcoder](https://atcoder.jp/users/tarafugu)
+- [Qiita](https://qiita.com/suzukibelltree)
