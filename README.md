@@ -19,7 +19,7 @@ Hi,I am a student in the Department of Information Engineering and aspire to bec
 ## 💻Development Achievements
 TsunDoku Resolution App ReadTrack (https://github.com/suzukibelltree/ReadTrack)
 
-Planned for release on the Google Play Store.
+[![Google Playで手に入れよう](https://play.google.com/intl/en_us/badges/static/images/badges/ja_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.belltree.readtrack)
 
 ## 📞Connect with me
 
