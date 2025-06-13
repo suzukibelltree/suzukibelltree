@@ -10,7 +10,7 @@ Hi,I am a student in the Department of Information Engineering and aspire to bec
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp)](https://skillicons.dev)
 
 ### 🔧Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,androidstudio)](https://skillicons.dev)
 
 ## 📈Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzukibelltree)](https://github.com/anuraghazra/github-readme-stats)
