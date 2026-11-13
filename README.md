@@ -24,6 +24,4 @@ TsunDoku Resolution App ReadTrack (https://github.com/suzukibelltree/ReadTrack)
 [![Google Playで手に入れよう](https://play.google.com/intl/en_us/badges/static/images/badges/ja_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.belltree.readtrack)
 
 ## 📞Connect with me
-- [X(Twitter)](https://x.com/bell__develop)
-- [Atcoder](https://atcoder.jp/users/tarafugu)
-- [Qiita](https://qiita.com/suzukibelltree)
+- [lit.link](https://lit.link/belltreedevelop)
