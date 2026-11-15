@@ -16,7 +16,6 @@ Hi,I am a student in the Department of Information Engineering and aspire to bec
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=suzukibelltree)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=suzukibelltree&layout=donut)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suzukibelltree&theme=radical)](https://git.io/streak-stats)
 
 ## 💻Development Achievements
 TsunDoku Resolution App ReadTrack (https://github.com/suzukibelltree/ReadTrack)
